@@ -1,0 +1,113 @@
+Palabra   coincidencias: 885
+Palabra adipiscing. coincidencias: 2
+Palabra adipiscing.
+
+turpis coincidencias: 1
+Palabra aliqua. coincidencias: 1
+Palabra aliquet. coincidencias: 1
+Palabra amet, coincidencias: 1
+Palabra amet. coincidencias: 2
+Palabra ante. coincidencias: 1
+Palabra at. coincidencias: 1
+Palabra bibendum. coincidencias: 1
+Palabra blandit. coincidencias: 1
+Palabra condimentum. coincidencias: 2
+Palabra convallis. coincidencias: 1
+Palabra cursus. coincidencias: 1
+Palabra diam. coincidencias: 1
+Palabra duis. coincidencias: 1
+Palabra egestas. coincidencias: 2
+Palabra eget.
+
+libero coincidencias: 1
+Palabra elementum.
+
+tempus coincidencias: 1
+Palabra elit, coincidencias: 1
+Palabra enim. coincidencias: 2
+Palabra erat. coincidencias: 1
+Palabra est. coincidencias: 1
+Palabra est.
+
+a coincidencias: 1
+Palabra et. coincidencias: 2
+Palabra eu. coincidencias: 1
+Palabra facilisi. coincidencias: 1
+Palabra facilisis. coincidencias: 2
+Palabra faucibus. coincidencias: 1
+Palabra felis. coincidencias: 1
+Palabra fringilla. coincidencias: 1
+Palabra gravida. coincidencias: 1
+Palabra habitant. coincidencias: 1
+Palabra in. coincidencias: 3
+Palabra in.
+
+massa coincidencias: 1
+Palabra integer. coincidencias: 1
+Palabra justo. coincidencias: 2
+Palabra lacus. coincidencias: 1
+Palabra laoreet. coincidencias: 2
+Palabra lectus. coincidencias: 3
+Palabra lectus.
+
+ac coincidencias: 1
+Palabra leo. coincidencias: 2
+Palabra libero. coincidencias: 1
+Palabra lobortis. coincidencias: 1
+Palabra magna. coincidencias: 1
+Palabra metus. coincidencias: 1
+Palabra mi. coincidencias: 1
+Palabra morbi. coincidencias: 2
+Palabra nam. coincidencias: 1
+Palabra neque. coincidencias: 3
+Palabra nibh. coincidencias: 2
+Palabra nisi. coincidencias: 2
+Palabra non. coincidencias: 2
+Palabra nulla. coincidencias: 2
+Palabra nunc. coincidencias: 1
+Palabra odio. coincidencias: 1
+Palabra orci.
+
+quam coincidencias: 1
+Palabra pellentesque. coincidencias: 1
+Palabra pellentesque.
+
+dui coincidencias: 1
+Palabra porttitor. coincidencias: 1
+Palabra praesent. coincidencias: 1
+Palabra proin. coincidencias: 1
+Palabra pulvinar. coincidencias: 1
+Palabra quam. coincidencias: 1
+Palabra quis. coincidencias: 1
+Palabra quisque. coincidencias: 1
+Palabra rhoncus. coincidencias: 1
+Palabra risus. coincidencias: 1
+Palabra sapien. coincidencias: 2
+Palabra scelerisque. coincidencias: 1
+Palabra sed. coincidencias: 2
+Palabra sem. coincidencias: 1
+Palabra semper. coincidencias: 3
+Palabra sit. coincidencias: 4
+Palabra sollicitudin. coincidencias: 1
+Palabra suspendisse. coincidencias: 3
+Palabra tellus. coincidencias: 2
+Palabra tempor. coincidencias: 3
+Palabra tempus. coincidencias: 1
+Palabra tincidunt. coincidencias: 2
+Palabra tortor. coincidencias: 2
+Palabra ullamcorper. coincidencias: 1
+Palabra ultrices. coincidencias: 1
+Palabra ultrices.
+
+risus coincidencias: 1
+Palabra ultricies. coincidencias: 2
+Palabra urna. coincidencias: 3
+Palabra ut. coincidencias: 1
+Palabra varius. coincidencias: 1
+Palabra vel. coincidencias: 1
+Palabra velit. coincidencias: 2
+Palabra venenatis. coincidencias: 1
+Palabra vestibulum. coincidencias: 1
+Palabra viverra. coincidencias: 4
+Palabra volutpat. coincidencias: 2
+Palabra vulputate. coincidencias: 1
